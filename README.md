@@ -35,8 +35,6 @@ I'm a passionate **DevOps Engineer** and **Developer** who loves automating ever
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt.js" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
 
 ## 🔧 What I Do
@@ -59,7 +57,6 @@ I'm a passionate **DevOps Engineer** and **Developer** who loves automating ever
 
 ## 🌱 Currently Exploring
 
-- Advanced Kubernetes orchestration patterns
 - Serverless architectures and edge computing
 - Web performance optimization techniques
 - Building developer tools and automation
