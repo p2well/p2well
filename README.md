@@ -45,16 +45,6 @@ I'm a passionate **DevOps Engineer** and **Developer** who loves automating ever
 - **Write clean, maintainable code** in multiple languages including TypeScript, Python, and Go
 - **Optimize workflows** to improve developer experience and deployment efficiency
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=p2well&show_icons=true&theme=radical&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=p2well&layout=compact&theme=radical&hide_border=true)
-  
-</div>
-
 ## 🌱 Currently Exploring
 
 - Serverless architectures and edge computing
