@@ -11,9 +11,9 @@
 
 I'm a passionate **DevOps Engineer** and **Developer** who loves automating everything! I specialize in:
 
-- 🔄 **CI/CD Automation** with GitHub Actions and reusable workflows
+- 🔄 **CI/CD Automation** with GitHub Actions, Azure DevOps, and reusable workflows
 - ⚡ **Frontend Development** crafting modern web experiences with Next.js and Nuxt.js
-- 🛠️ **Infrastructure as Code** and cloud-native solutions
+- ☁️ **Cloud Infrastructure** with Azure and Infrastructure as Code using Azure Bicep
 - 📦 **Building scalable** and maintainable systems
 
 ## 💻 Tech Stack
@@ -35,19 +35,22 @@ I'm a passionate **DevOps Engineer** and **Developer** who loves automating ever
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt.js" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" />
 </p>
 
 ## 🔧 What I Do
 
-- **Automate CI/CD pipelines** with GitHub Actions, creating reusable workflows for efficient deployments
+- **Automate CI/CD pipelines** with GitHub Actions and Azure DevOps, creating reusable workflows for efficient deployments
 - **Build modern frontends** using Next.js (React) and Nuxt.js (Vue) for performant web applications
-- **Design and implement** infrastructure automation and cloud solutions
+- **Design and implement** Azure infrastructure automation using Azure Bicep and cloud-native solutions
 - **Write clean, maintainable code** in multiple languages including TypeScript, Python, and Go
 - **Optimize workflows** to improve developer experience and deployment efficiency
 
 ## 🌱 Currently Exploring
 
-- Serverless architectures and edge computing
+- Azure cloud-native architectures and serverless solutions
+- Advanced Azure Bicep patterns for infrastructure automation
 - Web performance optimization techniques
 - Building developer tools and automation
 
