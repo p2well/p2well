@@ -49,10 +49,9 @@ I'm a passionate **DevOps Engineer** and **Developer** who loves automating ever
 
 ## 🌱 Currently Exploring
 
-- Azure cloud-native architectures and serverless solutions
-- Advanced Azure Bicep patterns for infrastructure automation
-- Web performance optimization techniques
-- Building developer tools and automation
+- GitHub Copilot CLI and AI-powered developer tooling
+- Claude Code for agentic coding workflows
+- Agentic AI patterns and autonomous automation
 
 ## 💡 Fun Facts
 
