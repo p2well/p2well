@@ -42,11 +42,8 @@
           "background": "#4caf50",
           "foreground": "#193549",
           "powerline_symbol": "\ue0b0",
-          "options": {
-            "time_format": "02.01.2006 15:04:05"
-          },
           "style": "powerline",
-          "template": " {{ .CurrentDate | date .Format }} ",
+          "template": " {{ .CurrentDate | date \"02.01.2006 15:04:05\" }} ",
           "type": "time"
         },
         {
